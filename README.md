@@ -1,4 +1,4 @@
-# sarang_app
+# Sarang App
 
 A new Flutter project.
 
