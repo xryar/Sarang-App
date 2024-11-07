@@ -8,4 +8,4 @@
 Sarang App adalah aplikasi pencari jodoh seperti Tinder dan Bumble yang dibuat menggunakan Flutter.
 
 ## Credit
-[BuildwithAngga.com](https://buildwithangga.com)
+[BuildwithAngga.com](https://buildwithangga.com) 
